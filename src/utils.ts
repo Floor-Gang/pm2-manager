@@ -1,4 +1,4 @@
-import bots from './bots.json';
+import bots from './bots.example.json';
 
 export default function getLogsFile(bot: string): string | undefined {
   // @ts-ignore
